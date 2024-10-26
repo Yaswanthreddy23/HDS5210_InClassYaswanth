@@ -1,0 +1,4 @@
+You had an error in your dyspnea calculation. No mapping corresponds to No breakthlessness.
+Your risk calculation returned a text value. Very difficult to average. 
+Presents an error in your final data.
+Check your BMI score value.
